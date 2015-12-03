@@ -60,4 +60,3 @@ target
 
 .idea/
 config.py
-fabfile.py
